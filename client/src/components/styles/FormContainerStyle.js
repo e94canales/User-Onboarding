@@ -8,7 +8,7 @@ const FormContainer = styled.div`
 
 
    form {
-        padding: 10% 0 1%;       
+        padding: 5% 0 1%;       
         display: flex;
         flex-direction: column;
         align-items: center;
